@@ -9,6 +9,8 @@ const Home = () => {
             <Hero/>
             <DreamTeam/>
             <FarGalaxy/>
+
+
         </div>
     );
 };
